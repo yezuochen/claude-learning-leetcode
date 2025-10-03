@@ -1,12 +1,13 @@
 # Claude Instructions for Learning LeetCode DSA
 
-This repo contains the useful project instructions in claude chat for learning data structure and algorithm from leetcode. You can copy following content or [@instruction.md](instruction.md) and paste it in your `Instructions` in claude `project`. I usually use it when debugging my solution, coming up with more efficient solution. 
+This repo contains the useful project instructions in claude chat for learning data structure and algorithm from leetcode. You can copy following content or [@instruction.md](instruction.md) and paste it in your `Instructions` in claude `project` or just upload [@instruction.md](instruction.md) to `Files` in claude `project`. I usually use it when debugging my solution, coming up with more efficient solution. 
 
 When you open the `learning` style, it will give you some hint and help you think about the solution step by step.
 
 ## Using Case
 
 ### debugging
+
 ```
 fix the solution of <LeetCode problem name>
 
@@ -17,6 +18,7 @@ class Solution {
 ### no idea with solution
 
 Open `style:learning`
+
 ```
 help me to solve <LeatCode problem name>
 ```
@@ -48,3 +50,7 @@ This comprehensive project will guide you through mastering LeetCode problems us
 2. Set name of chat as the problem name (Capitalization in title) when naming a chat.
 
 ```
+
+## ScreenShot
+
+![image](claude_project.png)
